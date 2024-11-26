@@ -7,3 +7,4 @@ this change is for learning gitstash in the local machine
 >>>>>>> Stashed changes
 
 This is the new change done by team A
+another change done by team A
