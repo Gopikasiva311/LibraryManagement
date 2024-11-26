@@ -1,2 +1,7 @@
 changes made in the repo
+<<<<<<< Updated upstream
 This change is for learning gitstash in the remote repo
+=======
+This change is for learning gitstash
+this change is for learning gitstash in the local machine
+>>>>>>> Stashed changes
