@@ -1,2 +1,2 @@
 changes made in the repo
-This change is for learning gitstash
+This change is for learning gitstash in the remote repo
